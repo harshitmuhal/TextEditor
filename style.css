@@ -20,6 +20,11 @@ body {
     margin: 0 auto;
 }
 
+#buttonarea{
+    width: 100%;
+    height: 30%;
+}
+
 #undo{
     margin:auto;
     display:block;
@@ -30,3 +35,4 @@ body {
     margin:auto;
     display:block;
 }
+
